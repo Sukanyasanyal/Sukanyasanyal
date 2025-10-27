@@ -52,7 +52,7 @@ I enjoy solving real-world business problems and am actively expanding my knowle
 <a href="https://www.linkedin.com/in/sukanya-sanyal-s7980/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
-<a href=mail to:misssanyal9123@gmail.com>
+<a href=misssanyal9123@gmail.com>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
 </a>
 <a href="https://www.instagram.com/sukanya.it.is/?igsh=M2pzdTZ1NXBqdWV4#">
