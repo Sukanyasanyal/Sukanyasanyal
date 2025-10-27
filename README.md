@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Sukanya Sanyal | Data Analyst & Python Enthusiast
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Sukanya Sanyal | Data Analyst & Python Enthusiast
+
+<div style="font-size: 1.25em; font-weight: bold; margin-bottom: 1rem;">
+I'm Sukanya Sanyal — translating data into actionable insights.
+</div># 👋 Hi, I'm Sukanya Sanyal | Data Analyst & Python Enthusiast
 ---
 
 ### 👩‍💻 About Me
@@ -53,8 +57,8 @@ My primary skill stack revolves around Python for data transformation and Power 
 * **Summary:** This project demonstrates custom ETL (Python/Pandas), **Data Modeling in Power BI**, and advanced **Git** management (successfully excluding 47MB+ raw files). It answered key business questions on tourism resilience and flight seasonality.
 
   #### **Superstore Sales Dashboard**
-  **Repository:** https://github.com/Sukanyasanyal/Superstore_sales_Dashboard
-  **Summary:** A financial performance dashboard for a global Superstore using SQL, Python(Colab), and PowerBI.
+* **Repository:** **(https://github.com/Sukanyasanyal/Superstore_sales_Dashboard)**
+* **Summary:** A financial performance dashboard for a global Superstore using SQL, Python(Colab), and PowerBI.
 
 ---
 
